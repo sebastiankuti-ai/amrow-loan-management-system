@@ -2,7 +2,7 @@ import express from "express";
 import path from "path";
 import fs from "fs";
 import { createServer as createViteServer } from "vite";
-import { initialDBState } from "./src/initialData.js";
+import { initialDBState } from "./initialData";
 
 const app = express();
 const PORT = 3000;
