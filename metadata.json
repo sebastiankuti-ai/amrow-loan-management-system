@@ -1,0 +1,6 @@
+{
+  "name": "AMROW Loan Management System",
+  "description": "Premium internal Loan Management System (LMS) for AMROW Capital Ltd operating in Kakamega County, Kenya. Features role-based dashboard controls, comprehensive loan configuration, automated interest and penalty fee calculation, audit logging, and simulation of client notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
